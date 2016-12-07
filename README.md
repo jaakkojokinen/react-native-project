@@ -12,4 +12,6 @@ https://github.com/StephenGrider/ReactNativeReduxCasts
 
 https://github.com/marcshilling/react-native-image-picker
 
+https://github.com/fullstackreact/react-native-firestack
+
 https://firebase.google.com
